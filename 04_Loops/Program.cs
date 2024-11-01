@@ -157,6 +157,7 @@ namespace _04_Loops
 
             Console.WriteLine(ones + " - " + tens + " - " + hundres);
             sum = ones + tens + hundres;
+            Console.WriteLine(sum);
 
             #endregion
 
