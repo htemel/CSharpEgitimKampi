@@ -5,7 +5,7 @@ Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kamp
 Her bir projede yazılan kodlar ve yapılan uygulamalar ile programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu.
 Aşağıda 9 ders boyunca yazılan kodlar ve yapılan projelere ait veriler yer almaktadır.
 
-✨ Ders 1: MainSubjects
+📍 Ders 1: MainSubjects
 Bu derste C# konsol alanında temel yazma komutları ve  değişkenlerin tanımlama kuralları öğrenilerek küçük bir uygulama ile öğretilenler pekiştirmemi sağladı.
 
 ✨ Ders 2: Variables
