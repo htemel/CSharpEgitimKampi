@@ -31,7 +31,7 @@ Bu derste foreach döngüsü ile dizilerdeki elamanların listelenmesini çok da
 ✨ Ders 8: Methods
 Bu derste methodların nasıl tanımlandığı ve nasıl çalıştığı konusunda verimli bir eğitim oldu. Methodlarla değer döndüren ve değer döndürmeyen methodlarla örnek uygulama yapılarak işlem becerilerini arttırıcı bir eğitim oldu.
 
-✨ Ders 9: Methods
-Bu derste sql veri tabanında tablolar oluşturup temel sql sorgulama komutları öğrendikten sonra C# konsol uygulamsında oluşturduğumuz veri tabanı bağlatısını uygulamalı olarak yaparak kendimi geliştirmeye devam ettim.
+✨ Ders 9: DatabaseProject
+Bu derste sql veri tabanında tablolar oluşturup temel sql sorgulama komutları öğrendikten sonra örnek uygulama için  C# konsol uygulamsında oluşturduğumuz veri tabanı bağlatısını uygulamalı olarak yaparak kendimi geliştirmeye devam ettim.
 
 Bu dersler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
